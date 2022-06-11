@@ -1,6 +1,8 @@
 const clientId = '94eef475b40b4db5bb9ad65266f49b34';
 let accessToken = "";
 const redirectURI = "https://bespoke-paprenjak-7522cb.netlify.app/";
+//http://localhost:3000/ - for testing
+//https://bespoke-paprenjak-7522cb.netlify.app/ - for deployment 
 
 export const Spotify = {
   getAccessToken() {

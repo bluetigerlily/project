@@ -28,13 +28,7 @@ class App extends React.Component {
 
   }
 
-  //original function redid to match other peoples code better
-  // addTrack(track) {
-  //   this.addTrack(playlistTracks => 
-  //     playlistTracks.includes(track) ? 
-  //     playlistTracks : [...playlistTracks, track]);
-  //     
-  // }
+
 
 
 //renamed from addTrackToPlaylist make sure to catch all the renames
